@@ -1,0 +1,62 @@
+
+body {
+    background-color: #fff8e6;
+    font-family: "Heebo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+.navbar {
+    background-color: #fcd1b8 !important;
+}
+h1 {
+    text-align: right;
+    font-family: "Oooh Baby", cursive; 
+}
+
+#firstp{
+    text-align: right;
+}
+
+p{
+    font-family: "Heebo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+hr {
+    border: 2.5px solid #6eb29a;
+    width: 30rem;
+    border-radius: 10px;
+    margin: 0 auto;
+   
+}
+#profile-pic {
+    padding-top: 50px;
+}
+h2 {
+    padding: 20px;
+}
+.card {
+    transition: .5s;
+}
+.card:hover {
+    transform:scale(1.1)
+}
+.Valeria {
+    color: #fcd1b8;
+
+}
+.contactme {
+    font-family: "Oooh Baby", cursive;
+    
+    color: #6eb29a;
+    
+}
+.ig-name {
+    font-family: "Inconsolata", monospace;
+}
+.feature-icon-small {
+    background-color: transparent !important;
+}
