@@ -16,6 +16,7 @@ h1 {
 
 #firstp{
     text-align: right;
+   
 }
 
 p{
@@ -37,6 +38,7 @@ hr {
 }
 h2 {
     padding: 20px;
+    font-family: "Oooh Baby", cursive;
 }
 .card {
     transition: .5s;
@@ -59,4 +61,12 @@ h2 {
 }
 .feature-icon-small {
     background-color: transparent !important;
+}
+h4{
+    font-family: "Oooh Baby", cursive;
+    font-weight: bold;
+}
+h3{
+    font-family: "Oooh Baby", cursive;
+    font-weight: bold;
 }
