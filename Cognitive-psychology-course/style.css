@@ -1,0 +1,85 @@
+body {
+    background-color: #F6F8D5;
+    font-family: "Source Sans 3", sans-serif;
+
+}
+
+h1, h2, h3 {
+    font-family: "Merriweather", serif;
+}
+
+
+.navbar .nav-link {
+    background-color: #4F959D; 
+    color: white !important;
+    padding: 8px 16px;
+    border-radius: 6px;
+    margin-right: 8px;
+    transition: background-color 0.3s ease;
+  }
+  .nav-pills .nav-link.active {
+    background-color: #205781; 
+    color: white !important;
+  }
+  .navbar .nav-link:hover {
+    background-color: #205781;
+    color: #fff !important;
+  }
+
+
+  .site-title {
+    color: 	#2a3035; 
+    font-family: "Merriweather", serif;
+  }
+
+  .custom-btn-text {
+    color: #4F959D !important;
+  }
+#Thumbnail {
+    background-color: #205781;
+}
+
+h1 {
+    font-family: 'Merriweather', serif;
+    color: #F6F8D5;
+}
+
+p {
+     
+    color: #98D2C0;
+    
+
+}
+
+.title-modules {
+    text-align: center;
+    font-family: "Merriweather", serif;
+    font-size: 3rem;
+    color: #2a3035;
+}
+
+h3 {
+    
+    color: #1E2A33;
+
+}
+
+.card-description {
+    color: #4F6369;
+}
+
+.icon-link {
+    color: #205781;
+    text-decoration: none;
+}
+.icon-link:hover {
+    color: #98D2C0;
+}
+
+#Quiz {
+    background-color: #98D2C0;
+}
+
+.help {
+    color: #205781;
+}
